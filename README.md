@@ -2,10 +2,15 @@
 코딩 테스트 대비 알고리즘 정리 및 문제 분석
 
 ## 목차
-- [브레인 스토밍](#brainstorming)
-- [문제 분석 모음](#section1)
-- [자료 구조](#section2)
-- [알고리즘](#section3)
+    + [브레인 스토밍 {#brainstorming}](#----------brainstorming-)
+- [문제 분석 모음 {#section1}](#-----------section1-)
+  * [소개](#--)
+  * [참고](#--)
+- [자료구조 {#section2}](#-------section2-)
+- [알고리즘 {#section3}](#-------section3-)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ### 브레인 스토밍 {#brainstorming}
 
